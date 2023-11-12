@@ -3,9 +3,8 @@
 This third-year university project in Trading, Market Design & Application involved simulating the role of an FX market maker using Excel. In this project i attempted to quote FX forward and option contracts, assess spot delta risk exposure, perform delta hedging, and explain portfolio PnL through basic Greeks summation. The accompanying Technical Report describes the experiment process and discusses any findings. Please download the Excel file for the experiment outcome and see the PDF file for the detailed technical report.
 
 ## Table of contents
-* [Objective](#objective)
-* [Key Takeaways](#key_takeaways)
-* [Reflection](#reflection)
+1. [Objective](#objective)
+2. [Key Takeaways](#key_takeaways)
 
 ## Objectives
 Following is a list of objectives for this project:
@@ -24,8 +23,3 @@ Following is a list of the knowledge I acquired from completing this project:
 - Spot delta headging FX forward and option contracts
 - Calculating Greeks
 - Model validation using Greeks
-
-## Reflection
-Following is a list of the constructive cristism i would give my self for this project:
-- sc
-
