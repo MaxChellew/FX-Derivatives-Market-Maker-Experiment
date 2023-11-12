@@ -18,20 +18,9 @@ Following is a list of objectives for this project:
 ## Key Takeaways
 Following is a list of the knowledge I acquired from completing this project:
 - FX markets
-- Calculating FX forward rate quotes
-- quoting FX Forward and Option contracts
-- Quoting FX options
+- Calculating FX forward rate to quotes contracts
+- Quoting FX Forward and Option contracts
 - Board lot restrictions 
 - Spot delta headging FX forward and option contracts
-- Calculating Greeks (delta 
+- Calculating Greeks: Delta, Vega, Rho local, Rho foreign, Theta, Gamma
 - Model validation using Greeks
-- 
-
- <a name="key_takeaways"></a>
-## Key Takeaways
-Following is the knowledge I acquired from completing this project:
-- FX markets
-- How to quote FX forward contracts
-- How to quote FX option contracts
-- Delta headging
-- Caclulating 
