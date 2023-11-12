@@ -1,11 +1,12 @@
 # FX Derivatives Market Maker Experiment
 
-This third-year university project in Trading, Market Design & Application involved simulating the role of an FX market maker using Excel. In this project i attempted to quote FX forward and option contracts, assess spot delta risk exposure, perform delta hedging, and explain portfolio PnL through basic Greeks summation. The accompanying Technical Report describes the experiment process and discusses any findings. Please download the Excel file for the experiment outcome and see the PDF file for the detailed technical report.
+In this third-year university project for Trading, Market Design & Application, I simulate the role of an FX market maker using Excel. I attempt to quote FX forward and option contracts, assess spot delta risk exposure, perform delta hedging, and explain portfolio PnL through basic Greeks summation. The accompanying Technical Report describes the experiments process and discusses my findings. Please download the Excel file for the experiments outcome and see the PDF file for the detailed Technical Report.
 
 ## Table of contents
 1. [Objective](#objective)
 2. [Key Takeaways](#key_takeaways)
 
+<a name="objectives"></a>
 ## Objectives
 Following is a list of objectives for this project:
 - Quoting derivative contracts to clients
@@ -13,13 +14,24 @@ Following is a list of objectives for this project:
 - Calculate Greeks
 - Model validation using Greeks (try to explain PnL)
 	
+ <a name="key_takeaways"></a>
 ## Key Takeaways
 Following is a list of the knowledge I acquired from completing this project:
-- Roles of a FX derivatives market maker
 - FX markets
 - Calculating FX forward rate quotes
+- quoting FX Forward and Option contracts
 - Quoting FX options
 - Board lot restrictions 
 - Spot delta headging FX forward and option contracts
-- Calculating Greeks
+- Calculating Greeks (delta 
 - Model validation using Greeks
+- 
+
+ <a name="key_takeaways"></a>
+## Key Takeaways
+Following is the knowledge I acquired from completing this project:
+- FX markets
+- How to quote FX forward contracts
+- How to quote FX option contracts
+- Delta headging
+- Caclulating 
